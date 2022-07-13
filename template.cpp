@@ -7,6 +7,9 @@
 #include <algorithm>
 #include <vector>
 #include <string>
+#include <queue>
+#include <deque>
+#include <stack>
 */
 #include <bits/stdc++.h>
 using namespace std;
